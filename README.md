@@ -2,7 +2,7 @@
 
 - **Họ tên:** Nguyễn Kiều Linh
 - **MSSV:** 3124720039
-- **Lớp:** SGU26K2_TTNTNC_C7_DNT1241_0709
+- **Lớp:** DNT1241
 
 Repo lưu toàn bộ bài tập cá nhân của môn học. Mỗi bài là một file, đặt tên theo dạng `<Bài>_<Chủ đề>_NguyenKieuLinh_3124720039`.
 
